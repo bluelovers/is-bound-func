@@ -4,6 +4,14 @@
 
 > npm install is-bound-func
 
+## API
+
+[index.d.ts](index.d.ts)
+
+```ts
+isBoundFunc<T extends Function>(fn: T, chkLevel = 2)
+```
+
 ## demo
 
 ```ts
