@@ -61,7 +61,7 @@ _self.default = _self.isBoundFunc = isBoundFunc;
 _self.SUPPORT_FUNC_NAME = SUPPORT_FUNC_NAME;
 _self.SUPPORT_FUNC_NAME_BOUND = SUPPORT_FUNC_NAME_BOUND;
 
-_self.isBoundFunc(() => {});
+//_self.isBoundFunc(() => {});
 
 export = _self;
 

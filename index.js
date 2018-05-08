@@ -37,7 +37,6 @@ let _self = isBoundFunc;
 _self.default = _self.isBoundFunc = isBoundFunc;
 _self.SUPPORT_FUNC_NAME = SUPPORT_FUNC_NAME;
 _self.SUPPORT_FUNC_NAME_BOUND = SUPPORT_FUNC_NAME_BOUND;
-_self.isBoundFunc(() => { });
 //console.dir(_self);
 /**
  * https://stackoverflow.com/questions/35686850/determine-if-a-javascript-function-is-a-bound-function/35687230
