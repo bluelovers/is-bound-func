@@ -1,0 +1,38 @@
+{
+  "name": "is-bound-func",
+  "version": "1.0.0",
+  "description": "Check if given function is bound or not.",
+  "keywords": [
+    "bind",
+    "bound",
+    "check",
+    "code",
+    "fn",
+    "function",
+    "is",
+    "is-bound-func",
+    "is-bound-function",
+    "native",
+    "nativecode",
+    "util",
+    "utils",
+    "validate"
+  ],
+  "homepage": "https://github.com/bluelovers/is-bound-func#readme",
+  "bugs": {
+    "url": "https://github.com/bluelovers/is-bound-func/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/is-bound-func.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
